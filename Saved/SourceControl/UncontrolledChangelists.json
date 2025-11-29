@@ -1,0 +1,53 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/GitUnreal/Anderson_Labs/Content/Lecture01_Exercise1/BP_Hello.uasset",
+				"D:/GitUnreal/Anderson_Labs/Content/BP_Hello.uasset",
+				"D:/GitUnreal/Anderson_Labs/Content/Lecture03_Exercise1/BP_Construction.uasset",
+				"D:/GitUnreal/Anderson_Labs/Content/BP_Construction.uasset",
+				"D:/GitUnreal/Anderson_Labs/Content/Lecture01_Exercise1/Lecture01_Exercise1.umap",
+				"D:/GitUnreal/Anderson_Labs/Content/Lecture03_Exercise1/Lecture03_Exercise1.umap",
+				"D:/GitUnreal/Anderson_Labs/Content/Lecture03_Exercise2.umap",
+				"D:/GitUnreal/Anderson_Labs/Content/Lecture03_Exercise2/Lecture03_Exercise2.umap",
+				"D:/GitUnreal/Anderson_Labs/Content/Lecture03_Exercise2/BP_Explosion.uasset",
+				"D:/GitUnreal/Anderson_Labs/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/GitUnreal/Anderson_Labs/Content/StarterContent/Materials/M_Wood_Oak.uasset",
+				"D:/GitUnreal/Anderson_Labs/Content/Lecture03_Exercise1.umap",
+				"D:/GitUnreal/Anderson_Labs/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"D:/GitUnreal/Anderson_Labs/Content/ThirdPerson/Blueprints/Character1.uasset",
+				"D:/GitUnreal/Anderson_Labs/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/GitUnreal/Anderson_Labs/Content/StarterContent/Materials/M_Water_Ocean.uasset",
+				"D:/GitUnreal/Anderson_Labs/Content/StarterContent/Materials/M_Wood_Walnut.uasset",
+				"D:/GitUnreal/Anderson_Labs/Content/Lecture04_Exercise1.umap",
+				"D:/GitUnreal/Anderson_Labs/Content/Lecture04_Exercise1/Lecture04_Exercise1.umap",
+				"D:/GitUnreal/Anderson_Labs/Content/Lecture04_Exercise2/BPGuide/BP_GameMode_HUD.uasset",
+				"D:/GitUnreal/Anderson_Labs/Content/Lecture04_Exercise2/BPGuide/BP_HUD_Timer.uasset",
+				"D:/GitUnreal/Anderson_Labs/Content/Lecture04_Exercise2.umap",
+				"D:/GitUnreal/Anderson_Labs/Content/Lecture04_Exercise2/Lecture04_Exercise2.umap",
+				"D:/GitUnreal/Anderson_Labs/Content/Lecture06_Exercise1.umap",
+				"D:/GitUnreal/Anderson_Labs/Content/Lecture06_Exercise1/Lecture06_Exercise1.umap",
+				"D:/GitUnreal/Anderson_Labs/Content/Lecture06_Exercise2/EMeshType.uasset",
+				"D:/GitUnreal/Anderson_Labs/Content/Lecture06_Exercise2/Lecture06_Exercise2.umap",
+				"D:/GitUnreal/Anderson_Labs/Content/Lecture06_Exercise2/BP_Enum.uasset",
+				"D:/GitUnreal/Anderson_Labs/Content/Lecture01_Exercise1.umap",
+				"D:/GitUnreal/Anderson_Labs/Content/Lecture07_Exercise1/Lecture07_Exercise1.umap",
+				"D:/GitUnreal/Anderson_Labs/Content/Lecture07_Exercise2/Lecture07_Exercise2.umap",
+				"D:/GitUnreal/Anderson_Labs/Content/LevelPrototyping/Textures/M_Wood_Oak.uasset",
+				"D:/GitUnreal/Anderson_Labs/Content/LevelPrototyping/Textures/wood.uasset",
+				"D:/GitUnreal/Anderson_Labs/Content/ThirdPerson/Blueprints/Character2.uasset",
+				"D:/GitUnreal/Anderson_Labs/Content/ThirdPerson/Blueprints/Character3.uasset",
+				"D:/GitUnreal/Lab-Exercises-Submission/Anika_Anderson/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/Y0/2RA4F4I68IYJSFCVZWI8FZ.uasset",
+				"D:/GitUnreal/Lab-Exercises-Submission/Anika_Anderson/Content/Lecture03_Exercise1.umap",
+				"D:/GitUnreal/Lab-Exercises-Submission/Anika_Anderson/Content/BP_Construction.uasset",
+				"D:/GitUnreal/Lab-Exercises-Submission/Anika_Anderson/Content/LevelPrototyping/Textures/wood.uasset",
+				"D:/GitUnreal/Lab-Exercises-Submission/Anika_Anderson/Content/LevelPrototyping/Textures/M_Wood_Oak.uasset",
+				"D:/GitUnreal/Anika_Anderson/Content/Lecture01_Exercise1.umap",
+				"D:/GitUnreal/Anika_Anderson/Content/BP_Hello.uasset"
+			]
+		}
+	]
+}
